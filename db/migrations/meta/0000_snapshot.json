@@ -1,5 +1,5 @@
 {
-  "id": "a4a7d041-ef8c-44ab-8aec-35656c990acc",
+  "id": "3c2a5014-6e1b-4070-adcc-b327072e0ec3",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -26,6 +26,13 @@
           "primaryKey": false,
           "notNull": true,
           "default": false
+        },
+        "user": {
+          "name": "user",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "'Asanovaalbina_user'"
         }
       },
       "indexes": {},

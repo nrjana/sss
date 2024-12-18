@@ -1,1 +1,0 @@
-ALTER TABLE "todo" ADD COLUMN "username" text NOT NULL;

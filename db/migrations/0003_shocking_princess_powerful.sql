@@ -1,1 +1,0 @@
-ALTER TABLE "todo" ALTER COLUMN "user" SET DEFAULT 'default_user';
